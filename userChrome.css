@@ -1,0 +1,10 @@
+/* MULTIROW BOOKMARKS */
+#PersonalToolbar {
+  max-height: unset !important}
+
+#PlacesToolbar > hbox:first-child {
+  display: block}
+
+#PlacesToolbarItems {
+  display: flex;
+  flex-wrap: wrap}

@@ -1,0 +1,57 @@
+@-moz-document domain(youtube.com){
+	/*Header*/
+	html[dark], [dark]{
+		--yt-spec-brand-background-primary:#161616 !important;
+		--yt-spec-brand-background-secondary:#161616 !important;
+		--ytd-searchbox-legacy-border-color: #4D3CA6 !important;
+		--ytd-searchbox-legacy-button-border-color: #4D3CA6 !important;
+		--yt-spec-brand-background-solid:#161616 !important;
+		border-left: #4D3CA6 !important;
+	}
+	
+	/*Sidebar*/
+	ytd-guide-renderer{
+		border-right: 2px solid #4D3CA6 !important;
+		
+	}
+
+	/*Minimised sidebar*/
+	ytd-mini-guide-renderer{
+		
+		border-right: 2px solid #4D3CA6 !important;
+	}
+	
+}
+
+@-moz-document domain(reddit.com){
+	/*Body*/
+	._31N0dvxfpsO6Ur5AKx4O5d  {
+		background-color:#161616 !important;
+
+
+	}
+	/*Header*/
+	._2vkeRJojnV7cb9pMlPHy7d {
+		background-color:#161616 !important;
+
+
+	}
+	/*Subreddit bar*/
+	.MSTY2ZpsdupobywLEfx9u {
+		background-color:#161616 !important;
+
+
+	}
+	/*Posts*/
+	._2lHXa-mLMsRfm1Q5JxgU4r, ._3Qkp11fjcAw9I9wtLo8frE{
+		border: 2px solid #4D3CA6 !important;
+
+	}
+	/*New post bar and sort posts bar*/
+	._2jJNpBqXMbbyOiGCElTYxZ , .wBtTDilkW_rtT2k5x3eie{
+		background-color:#161616 !important;
+		border: 2px solid #4D3CA6 !important;
+
+
+	}
+}
