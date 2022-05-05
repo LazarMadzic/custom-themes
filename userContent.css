@@ -10,9 +10,8 @@
 	}
 	
 	/*Sidebar*/
-	ytd-guide-renderer{
+	#guide-wrapper{
 		border-right: 2px solid #4D3CA6 !important;
-		
 	}
 
 	/*Minimised sidebar*/
@@ -44,7 +43,7 @@
 	}
 	/*Posts*/
 	._2lHXa-mLMsRfm1Q5JxgU4r, ._3Qkp11fjcAw9I9wtLo8frE{
-		border: 2px solid #4D3CA6 !important;
+		border: 1px solid #4D3CA6 !important;
 
 	}
 	/*New post bar and sort posts bar*/
@@ -54,4 +53,34 @@
 
 
 	}
+
+	/*Open post background*/
+	._29IbETWb5VVDcfk_-GumWz {
+		background-color:#161616 !important;
+
+
+	}
+	/*Open post border padding*/
+	._1npCwF50X2J7Wt82SZi6J0 {
+		background-color:#161616 !important;
+
+	}
+	/*Open post title, padding, comments, sort comments*/
+	.K4Eem3pMbRbAYioOfqN5E , ._3obgdFz00GvpqpuX8QCsNK , .uI_hDmU5GSiudtABRz_37 ,._2M2wOqmeoPVvcSsJ6Po9-V , ._2ulKn_zs7Y3LWsOqoFLHPo     {
+		background-color:#161616 !important;
+
+	}
+	
+	/*Open post body*/
+	._1oQyIsiPHYt6nx7VOmd1sz, ._2rszc84L136gWQrkwH6IaM,  .Post{
+		background-color:#161616 !important;
+		border: 2px solid #4D3CA6 !important;
+	} 
+	/*Comment line*/
+	.threadline{
+		border-right: 2px solid #4D3CA6 !important;
+
+	}
+
+	
 }
