@@ -11,22 +11,6 @@
 <br>
     userChrome.css is usedfor styling Firefox and userContent.css is used to style individula domains
 <br>
-
-
-### TO DO
-- [ ] Reddit
-  - [ ] logged in vs out
-  - [x] open post
-  - [x] hover border fix i on profile scroll post
-- [ ] Youtube
-  - [x] Little details
-- [ ] GitHub
-- [ ] Wikipedia
-- [ ] Change fonts
-- [ ] Google
-
-
-
 <br>
 <br>
 
